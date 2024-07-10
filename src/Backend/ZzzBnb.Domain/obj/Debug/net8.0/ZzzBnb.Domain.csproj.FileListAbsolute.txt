@@ -1,0 +1,12 @@
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/bin/Debug/net8.0/ZzzBnb.Domain.deps.json
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/bin/Debug/net8.0/ZzzBnb.Domain.dll
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/bin/Debug/net8.0/ZzzBnb.Domain.pdb
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.AssemblyInfoInputs.cache
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.AssemblyInfo.cs
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.csproj.CoreCompileInputs.cache
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.sourcelink.json
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.dll
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/refint/ZzzBnb.Domain.dll
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ZzzBnb.Domain.pdb
+/home/andre/Documentos/c#/zzzbnb/zzzbnb/src/Backend/ZzzBnb.Domain/obj/Debug/net8.0/ref/ZzzBnb.Domain.dll
