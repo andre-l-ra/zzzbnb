@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6B00E6B2-BB46-4369-ABA8-C9F998A338D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{D5946F22-1C09-46B0-BA68-97863C1CBCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZzzBnb.Domain", "src\Backend\ZzzBnb.Domain\ZzzBnb.Domain.csproj", "{2E4BE6F7-F947-47FE-BDF0-EAC4CE291A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4BE6F7-F947-47FE-BDF0-EAC4CE291A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4BE6F7-F947-47FE-BDF0-EAC4CE291A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4BE6F7-F947-47FE-BDF0-EAC4CE291A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4BE6F7-F947-47FE-BDF0-EAC4CE291A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5946F22-1C09-46B0-BA68-97863C1CBCEE} = {6B00E6B2-BB46-4369-ABA8-C9F998A338D1}
+		{2E4BE6F7-F947-47FE-BDF0-EAC4CE291A05} = {D5946F22-1C09-46B0-BA68-97863C1CBCEE}
+	EndGlobalSection
+EndGlobal
