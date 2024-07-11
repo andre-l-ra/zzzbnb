@@ -1,12 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+namespace ZzzBnb.Domain.Repositories;
 
-namespace ZzzBnb.Domain.Repositories
+public interface IClientRepository : IRepository<Cliente>
 {
-    public interface IClientRepository
-    {
-        
-    }
+    
 }
