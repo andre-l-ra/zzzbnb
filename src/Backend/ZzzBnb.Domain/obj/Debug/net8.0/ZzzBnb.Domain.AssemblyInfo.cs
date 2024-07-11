@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZzzBnb.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+947ee2edfd5dd282cf72918589f60a6e107495a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+101f8f4e88ceaaba45ccd089ec8122e1f348337c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZzzBnb.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZzzBnb.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
