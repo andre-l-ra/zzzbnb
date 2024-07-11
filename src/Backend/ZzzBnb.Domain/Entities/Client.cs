@@ -51,6 +51,5 @@ public class Client : BaseEntity, IAggregateRoot
         if(string.IsNullOrWhiteSpace(Phone)) throw new ClienteDomainException("O telefone é obrigatório");
         if(string.IsNullOrWhiteSpace(Email)) throw new ClienteDomainException("O email é obrigatório");
         if(Address == null) throw new ClienteDomainException("O endereço é obrigatório");
-
     }    
 }
