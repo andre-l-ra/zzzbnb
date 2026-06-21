@@ -5,7 +5,7 @@
 
 ## Visão Geral
 
-Este projeto é um sistema de gestão de reservas de hotéis e pousadas, desenvolvido para permitir que os clientes façam reservas e para que os administradores gerenciem quartos, clientes e pagamentos. O sistema é construído usando ASP.NET Core 8, seguindo a arquitetura limpa e o Domain-Driven Design (DDD).
+Este projeto é um sistema de gestão de reservas de hotéis e pousadas, desenvolvido para permitir que os clientes façam reservas e para que os administradores gerenciem quartos, clientes e pagamentos. O sistema é construído usando ASP.NET Core 10, seguindo a arquitetura limpa e o Domain-Driven Design (DDD).
 
 ## Funcionalidades Principais
 
@@ -44,7 +44,7 @@ Este projeto é um sistema de gestão de reservas de hotéis e pousadas, desenvo
 
 ## Tecnologias Utilizadas
 
-- ASP.NET Core 8
+- ASP.NET Core 10
 - Entity Framework Core
 - Mysql
 - Swagger
@@ -106,7 +106,7 @@ Este projeto segue a arquitetura limpa e o Domain-Driven Design (DDD), garantind
 
 ## Overview
 
-This project is a hotel and guesthouse reservation management system, developed to allow customers to make reservations and for administrators to manage rooms, customers, and payments. The system is built using ASP.NET Core 8, following clean architecture and Domain-Driven Design (DDD).
+This project is a hotel and guesthouse reservation management system, developed to allow customers to make reservations and for administrators to manage rooms, customers, and payments. The system is built using ASP.NET Core 10, following clean architecture and Domain-Driven Design (DDD).
 
 ## Main Features
 
@@ -146,7 +146,7 @@ This project is a hotel and guesthouse reservation management system, developed 
 
 ## Technologies Used
 
-- ASP.NET Core 8
+- ASP.NET Core 10
 - Entity Framework Core
 - MySQL
 - Swagger
